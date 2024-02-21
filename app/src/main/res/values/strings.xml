@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JetpackComposeCustom Dialog</string>
+    <string name="alert_string">Allow Permission to send you notifications when new changes are added.</string>
+    <string name="get_updates">Get Updates</string>
+    <string name="not_now">Not Now</string>
+    <string name="allow">Allow</string>
+</resources>
